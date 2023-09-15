@@ -21,7 +21,7 @@ Here are some of my highlighted projects. Be sure to check them out!
 
 1. **QuickLink**
    - Description: QuickLink is focused app on file sharing with privacy on next level. It ends the requirement of a in between server to share file.
-   - Repository: [https://github.com/QuickLink.git]
+   - Repository: [https://github.com/mk020846/QuickLink.git]
 
 ## Open Source Contributions
 
