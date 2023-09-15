@@ -1,3 +1,3 @@
 # _WELCOME TO MY REPOSITORY_
-> [!Note]
+> [!NOTE]
 > Mainly all projects are of Python
