@@ -19,15 +19,9 @@ Hello there! 👋 Welcome to my GitHub profile. I'm Mayank, a passionate amatuer
 
 Here are some of my highlighted projects. Be sure to check them out!
 
-1. **Project Name**
-   - Description: Briefly describe the project, its purpose, and any notable features.
-   - Repository: [Link to the GitHub repository]
-   - Demo: [Link to a live demo or project page, if applicable]
-
-2. **Project Name**
-   - Description: Briefly describe the project, its purpose, and any notable features.
-   - Repository: [Link to the GitHub repository]
-   - Demo: [Link to a live demo or project page, if applicable]
+1. **QuickLink**
+   - Description: QuickLink is focused app on file sharing with privacy on next level. It ends the requirement of a in between server to share file.
+   - Repository: [https://github.com/QuickLink.git]
 
 ## Open Source Contributions
 
