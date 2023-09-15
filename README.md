@@ -34,7 +34,7 @@ If you find my work valuable, consider supporting me:
 
 - 💬 Leave a star on repositories you find interesting.
 - 📣 Share my projects with your network.
-- ☕ Buy me a coffee: [Link to your donation page, if applicable]
+- ☕ Buy me a coffee: [https://www.buymeacoffee.com/mayank1407]
 
 Thank you for visiting my GitHub profile. Let's build great things together! 🚀
 
