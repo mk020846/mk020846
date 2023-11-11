@@ -29,7 +29,7 @@ I'm always excited to connect with fellow developers and enthusiasts. Don't hesi
 - Email: [mayank020846@outlook.com]
 
 # Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mk020846)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mk020846&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Support Me
 
